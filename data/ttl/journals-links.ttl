@@ -1,0 +1,18 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://data.infocientia.com/resource/journal/J1> owl:sameAs <http://www.wikidata.org/entity/Q50816707>, <https://issn.org/resource/issn/2307-2113> .
+<https://data.infocientia.com/resource/journal/J2> owl:sameAs <http://www.wikidata.org/entity/Q6008909>, <https://issn.org/resource/issn/1727-897X> .
+<https://data.infocientia.com/resource/journal/J3> owl:sameAs <http://www.wikidata.org/entity/Q50816174>, <https://issn.org/resource/issn/2221-2434> .
+<https://data.infocientia.com/resource/journal/J4> owl:sameAs <http://www.wikidata.org/entity/Q50497433>, <https://issn.org/resource/issn/1561-3070> .
+<https://data.infocientia.com/resource/journal/J5> owl:sameAs <https://issn.org/resource/issn/1815-7696> .
+<https://data.infocientia.com/resource/journal/J6> owl:sameAs <https://issn.org/resource/issn/2310-340X> .
+<https://data.infocientia.com/resource/journal/J7> owl:sameAs <http://www.wikidata.org/entity/Q104422443>, <https://issn.org/resource/issn/2310-3469> .
+<https://data.infocientia.com/resource/journal/J9> owl:sameAs <https://issn.org/resource/issn/2708-3411> .
+<https://data.infocientia.com/resource/journal/J10> owl:sameAs <http://www.wikidata.org/entity/Q96331750>, <https://issn.org/resource/issn/1561-3127> .
+<https://data.infocientia.com/resource/journal/J11> owl:sameAs <https://issn.org/resource/issn/1684-1859> .
+<https://data.infocientia.com/resource/journal/J12> owl:sameAs <https://issn.org/resource/issn/1561-3194> .
+<https://data.infocientia.com/resource/journal/J13> owl:sameAs <http://www.wikidata.org/entity/Q27713067>, <https://issn.org/resource/issn/1561-3054> .
+<https://data.infocientia.com/resource/journal/J15> owl:sameAs <http://www.wikidata.org/entity/Q50497435>, <https://issn.org/resource/issn/1561-3038> .
+<https://data.infocientia.com/resource/journal/J16> owl:sameAs <http://www.wikidata.org/entity/Q96331732>, <https://issn.org/resource/issn/1561-3011> .
+<https://data.infocientia.com/resource/journal/J17> owl:sameAs <http://www.wikidata.org/entity/Q7318482>, <https://issn.org/resource/issn/1561-2945> .
+<https://data.infocientia.com/resource/journal/J18> owl:sameAs <http://www.wikidata.org/entity/Q96331718>, <https://issn.org/resource/issn/1561-2902> .

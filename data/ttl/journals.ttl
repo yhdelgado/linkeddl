@@ -1,0 +1,140 @@
+@prefix swrc:    <http://swrc.ontoware.org/ontology#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix fabio:   <http://purl.org/spar/fabio/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix dc:      <http://purl.org/dc/elements/1.1/> .
+
+bibo:uri
+      a       rdf:Property ;
+      rdfs:label "journal url" .
+
+<https://data.infocientia.com/resource/journal/J2>
+      a       fabio:Journal ;
+      rdfs:label "Medisur" ;
+      dc:title "Medisur" ;
+      bibo:issn "1727-897X" ;
+      bibo:uri "http://www.medisur.sld.cu/index.php/medisur/" .
+
+<https://data.infocientia.com/resource/journal/J3>
+      a       fabio:Journal ;
+      rdfs:label "Revista Finlay" ;
+      dc:title "Revista Finlay" ;
+      bibo:issn "2221-2434" ;
+      bibo:uri "http://www.revfinlay.sld.cu/index.php/finlay/" .
+
+<https://data.infocientia.com/resource/journal/J1>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Información en Ciencias de la Salud" ;
+      dc:title "Revista Cubana de Información en Ciencias de la Salud" ;
+      bibo:issn "2307-2113" ;
+      bibo:uri "http://www.rcics.sld.cu/index.php/acimed/" .
+
+bibo:issn
+      a       rdf:Property ;
+      rdfs:label "journal ISSN" .
+
+dc:title
+      a       rdf:Property ;
+      rdfs:label "journal title" .
+
+fabio:Journal
+      a       rdfs:Class ;
+      rdfs:label "journal" .
+
+<https://data.infocientia.com/resource/journal/J17>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Cirugía" ;
+      dc:title "Revista Cubana de Cirugía" ;
+      bibo:issn "1561-2945" ;
+      bibo:uri "http://www.revcirugia.sld.cu/index.php/cir/" .
+
+<https://data.infocientia.com/resource/journal/J18>
+      a       fabio:Journal ;
+      rdfs:label "Educación Médica Superior" ;
+      dc:title "Educación Médica Superior" ;
+      bibo:issn "1561-2902" ;
+      bibo:uri "http://www.ems.sld.cu/index.php/ems/" .
+
+rdfs:label
+      a       rdf:Property .
+
+<https://data.infocientia.com/resource/journal/J6>
+      a       fabio:Journal ;
+      rdfs:label "Cooperativismo y Desarrollo" ;
+      dc:title "Cooperativismo y Desarrollo" ;
+      bibo:issn "2310-340X" ;
+      bibo:uri "http://coodes.upr.edu.cu/index.php/coodes/" .
+
+<https://data.infocientia.com/resource/journal/J11>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Informática Médica" ;
+      dc:title "Revista Cubana de Informática Médica" ;
+      bibo:issn "1684-1859" ;
+      bibo:uri "http://revinformatica.sld.cu/index.php/rcim/" .
+
+<https://data.infocientia.com/resource/journal/J7>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Ciencias Forestales" ;
+      dc:title "Revista Cubana de Ciencias Forestales" ;
+      bibo:issn "2310-3469" ;
+      bibo:uri "http://cfores.upr.edu.cu/index.php/cfores/" .
+
+<https://data.infocientia.com/resource/journal/J12>
+      a       fabio:Journal ;
+      rdfs:label "Revista de Ciencias Médicas de Pinar del Río" ;
+      dc:title "Revista de Ciencias Médicas de Pinar del Río" ;
+      bibo:issn "1561-3194" ;
+      bibo:uri "http://www.revcmpinar.sld.cu/index.php/publicaciones/" .
+
+<https://data.infocientia.com/resource/journal/J4>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Oftalmología" ;
+      dc:title "Revista Cubana de Oftalmología" ;
+      bibo:issn "1561-3070" ;
+      bibo:uri "http://www.revoftalmologia.sld.cu/index.php/oftalmologia/" .
+
+<https://data.infocientia.com/resource/journal/J5>
+      a       fabio:Journal ;
+      rdfs:label "Mendive. Revista de Educación" ;
+      dc:title "Mendive. Revista de Educación" ;
+      bibo:issn "1815-7696" ;
+      bibo:uri "http://mendive.upr.edu.cu/index.php/MendiveUPR/" .
+
+<https://data.infocientia.com/resource/journal/J10>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Salud Pública" ;
+      dc:title "Revista Cubana de Salud Pública" ;
+      bibo:issn "1561-3127" ;
+      bibo:uri "http://www.revsaludpublica.sld.cu/index.php/spu/" .
+
+<https://data.infocientia.com/resource/journal/J15>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Medicina General Integral" ;
+      dc:title "Revista Cubana de Medicina General Integral" ;
+      bibo:issn "1561-3038" ;
+      bibo:uri "http://www.revmgi.sld.cu/index.php/mgi/" .
+
+<https://data.infocientia.com/resource/journal/J16>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Investigaciones Biomédicas" ;
+      dc:title "Revista Cubana de Investigaciones Biomédicas" ;
+      bibo:issn "1561-3011" ;
+      bibo:uri "http://www.revibiomedica.sld.cu/index.php/ibi/" .
+
+<https://data.infocientia.com/resource/journal/J13>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Medicina Tropical" ;
+      dc:title "Revista Cubana de Medicina Tropical" ;
+      bibo:issn "1561-3054" ;
+      bibo:uri "http://www.revmedtropical.sld.cu/index.php/medtropical/" .
+
+<https://data.infocientia.com/resource/journal/J9>
+      a       fabio:Journal ;
+      rdfs:label "Revista Cubana de Transformación Digital" ;
+      dc:title "Revista Cubana de Transformación Digital" ;
+      bibo:issn "2708-3411" ;
+      bibo:uri "https://rctd.uic.cu/rctd/" .
