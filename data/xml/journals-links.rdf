@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J1">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50816707"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/2307-2113"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J2">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6008909"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1727-897X"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J3">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50816174"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/2221-2434"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J4">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50497433"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-3070"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J5">
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1815-7696"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J6">
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/2310-340X"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J7">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q104422443"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/2310-3469"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J9">
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/2708-3411"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J10">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q96331750"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-3127"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J11">
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1684-1859"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J12">
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-3194"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J13">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q27713067"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-3054"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J15">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50497435"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-3038"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J16">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q96331732"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-3011"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J17">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7318482"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-2945"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.infocientia.com/resource/journal/J18">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q96331718"/>
+    <owl:sameAs rdf:resource="https://issn.org/resource/issn/1561-2902"/>
+  </rdf:Description>
+
+</rdf:RDF>
