@@ -1,83 +1,83 @@
-<https://data.infocientia.com/resource/journal/J1> <http://purl.org/ontology/bibo/uri> "http://www.rcics.sld.cu/index.php/acimed/" .
-<https://data.infocientia.com/resource/journal/J1> <http://purl.org/ontology/bibo/issn> "2307-2113" .
-<https://data.infocientia.com/resource/journal/J1> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Informaci\u00F3n en Ciencias de la Salud" .
-<https://data.infocientia.com/resource/journal/J1> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Informaci\u00F3n en Ciencias de la Salud" .
-<https://data.infocientia.com/resource/journal/J1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J2> <http://purl.org/ontology/bibo/uri> "http://www.medisur.sld.cu/index.php/medisur/" .
-<https://data.infocientia.com/resource/journal/J2> <http://purl.org/ontology/bibo/issn> "1727-897X" .
-<https://data.infocientia.com/resource/journal/J2> <http://purl.org/dc/elements/1.1/title> "Medisur" .
-<https://data.infocientia.com/resource/journal/J2> <http://www.w3.org/2000/01/rdf-schema#label> "Medisur" .
-<https://data.infocientia.com/resource/journal/J2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J3> <http://purl.org/ontology/bibo/uri> "http://www.revfinlay.sld.cu/index.php/finlay/" .
-<https://data.infocientia.com/resource/journal/J3> <http://purl.org/ontology/bibo/issn> "2221-2434" .
-<https://data.infocientia.com/resource/journal/J3> <http://purl.org/dc/elements/1.1/title> "Revista Finlay" .
-<https://data.infocientia.com/resource/journal/J3> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Finlay" .
-<https://data.infocientia.com/resource/journal/J3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J4> <http://purl.org/ontology/bibo/uri> "http://www.revoftalmologia.sld.cu/index.php/oftalmologia/" .
-<https://data.infocientia.com/resource/journal/J4> <http://purl.org/ontology/bibo/issn> "1561-3070" .
-<https://data.infocientia.com/resource/journal/J4> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Oftalmolog\u00EDa" .
-<https://data.infocientia.com/resource/journal/J4> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Oftalmolog\u00EDa" .
-<https://data.infocientia.com/resource/journal/J4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J5> <http://purl.org/ontology/bibo/uri> "http://mendive.upr.edu.cu/index.php/MendiveUPR/" .
-<https://data.infocientia.com/resource/journal/J5> <http://purl.org/ontology/bibo/issn> "1815-7696" .
-<https://data.infocientia.com/resource/journal/J5> <http://purl.org/dc/elements/1.1/title> "Mendive. Revista de Educaci\u00F3n" .
-<https://data.infocientia.com/resource/journal/J5> <http://www.w3.org/2000/01/rdf-schema#label> "Mendive. Revista de Educaci\u00F3n" .
-<https://data.infocientia.com/resource/journal/J5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J6> <http://purl.org/ontology/bibo/uri> "http://coodes.upr.edu.cu/index.php/coodes/" .
-<https://data.infocientia.com/resource/journal/J6> <http://purl.org/ontology/bibo/issn> "2310-340X" .
-<https://data.infocientia.com/resource/journal/J6> <http://purl.org/dc/elements/1.1/title> "Cooperativismo y Desarrollo" .
-<https://data.infocientia.com/resource/journal/J6> <http://www.w3.org/2000/01/rdf-schema#label> "Cooperativismo y Desarrollo" .
-<https://data.infocientia.com/resource/journal/J6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J7> <http://purl.org/ontology/bibo/uri> "http://cfores.upr.edu.cu/index.php/cfores/" .
-<https://data.infocientia.com/resource/journal/J7> <http://purl.org/ontology/bibo/issn> "2310-3469" .
-<https://data.infocientia.com/resource/journal/J7> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Ciencias Forestales" .
-<https://data.infocientia.com/resource/journal/J7> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Ciencias Forestales" .
-<https://data.infocientia.com/resource/journal/J7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J9> <http://purl.org/ontology/bibo/uri> "https://rctd.uic.cu/rctd/" .
-<https://data.infocientia.com/resource/journal/J9> <http://purl.org/ontology/bibo/issn> "2708-3411" .
-<https://data.infocientia.com/resource/journal/J9> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Transformaci\u00F3n Digital" .
-<https://data.infocientia.com/resource/journal/J9> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Transformaci\u00F3n Digital" .
-<https://data.infocientia.com/resource/journal/J9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J10> <http://purl.org/ontology/bibo/uri> "http://www.revsaludpublica.sld.cu/index.php/spu/" .
-<https://data.infocientia.com/resource/journal/J10> <http://purl.org/ontology/bibo/issn> "1561-3127" .
-<https://data.infocientia.com/resource/journal/J10> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Salud P\u00FAblica" .
-<https://data.infocientia.com/resource/journal/J10> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Salud P\u00FAblica" .
-<https://data.infocientia.com/resource/journal/J10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J11> <http://purl.org/ontology/bibo/uri> "http://revinformatica.sld.cu/index.php/rcim/" .
-<https://data.infocientia.com/resource/journal/J11> <http://purl.org/ontology/bibo/issn> "1684-1859" .
-<https://data.infocientia.com/resource/journal/J11> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Inform\u00E1tica M\u00E9dica" .
-<https://data.infocientia.com/resource/journal/J11> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Inform\u00E1tica M\u00E9dica" .
-<https://data.infocientia.com/resource/journal/J11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J12> <http://purl.org/ontology/bibo/uri> "http://www.revcmpinar.sld.cu/index.php/publicaciones/" .
-<https://data.infocientia.com/resource/journal/J12> <http://purl.org/ontology/bibo/issn> "1561-3194" .
-<https://data.infocientia.com/resource/journal/J12> <http://purl.org/dc/elements/1.1/title> "Revista de Ciencias M\u00E9dicas de Pinar del R\u00EDo" .
-<https://data.infocientia.com/resource/journal/J12> <http://www.w3.org/2000/01/rdf-schema#label> "Revista de Ciencias M\u00E9dicas de Pinar del R\u00EDo" .
-<https://data.infocientia.com/resource/journal/J12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J13> <http://purl.org/ontology/bibo/uri> "http://www.revmedtropical.sld.cu/index.php/medtropical/" .
-<https://data.infocientia.com/resource/journal/J13> <http://purl.org/ontology/bibo/issn> "1561-3054" .
-<https://data.infocientia.com/resource/journal/J13> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Medicina Tropical" .
-<https://data.infocientia.com/resource/journal/J13> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Medicina Tropical" .
-<https://data.infocientia.com/resource/journal/J13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J15> <http://purl.org/ontology/bibo/uri> "http://www.revmgi.sld.cu/index.php/mgi/" .
-<https://data.infocientia.com/resource/journal/J15> <http://purl.org/ontology/bibo/issn> "1561-3038" .
-<https://data.infocientia.com/resource/journal/J15> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Medicina General Integral" .
-<https://data.infocientia.com/resource/journal/J15> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Medicina General Integral" .
-<https://data.infocientia.com/resource/journal/J15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J16> <http://purl.org/ontology/bibo/uri> "http://www.revibiomedica.sld.cu/index.php/ibi/" .
-<https://data.infocientia.com/resource/journal/J16> <http://purl.org/ontology/bibo/issn> "1561-3011" .
-<https://data.infocientia.com/resource/journal/J16> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Investigaciones Biom\u00E9dicas" .
-<https://data.infocientia.com/resource/journal/J16> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Investigaciones Biom\u00E9dicas" .
-<https://data.infocientia.com/resource/journal/J16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J17> <http://purl.org/ontology/bibo/uri> "http://www.revcirugia.sld.cu/index.php/cir/" .
-<https://data.infocientia.com/resource/journal/J17> <http://purl.org/ontology/bibo/issn> "1561-2945" .
-<https://data.infocientia.com/resource/journal/J17> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Cirug\u00EDa" .
-<https://data.infocientia.com/resource/journal/J17> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Cirug\u00EDa" .
-<https://data.infocientia.com/resource/journal/J17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
-<https://data.infocientia.com/resource/journal/J18> <http://purl.org/ontology/bibo/uri> "http://www.ems.sld.cu/index.php/ems/" .
-<https://data.infocientia.com/resource/journal/J18> <http://purl.org/ontology/bibo/issn> "1561-2902" .
-<https://data.infocientia.com/resource/journal/J18> <http://purl.org/dc/elements/1.1/title> "Educaci\u00F3n M\u00E9dica Superior" .
-<https://data.infocientia.com/resource/journal/J18> <http://www.w3.org/2000/01/rdf-schema#label> "Educaci\u00F3n M\u00E9dica Superior" .
-<https://data.infocientia.com/resource/journal/J18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/2307-2113> <http://purl.org/ontology/bibo/uri> "http://www.rcics.sld.cu/index.php/acimed/" .
+<https://data.infocientia.com/resource/journal/2307-2113> <http://purl.org/ontology/bibo/issn> "2307-2113" .
+<https://data.infocientia.com/resource/journal/2307-2113> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Informaci\u00F3n en Ciencias de la Salud" .
+<https://data.infocientia.com/resource/journal/2307-2113> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Informaci\u00F3n en Ciencias de la Salud" .
+<https://data.infocientia.com/resource/journal/2307-2113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1727-897X> <http://purl.org/ontology/bibo/uri> "http://www.medisur.sld.cu/index.php/medisur/" .
+<https://data.infocientia.com/resource/journal/1727-897X> <http://purl.org/ontology/bibo/issn> "1727-897X" .
+<https://data.infocientia.com/resource/journal/1727-897X> <http://purl.org/dc/elements/1.1/title> "Medisur" .
+<https://data.infocientia.com/resource/journal/1727-897X> <http://www.w3.org/2000/01/rdf-schema#label> "Medisur" .
+<https://data.infocientia.com/resource/journal/1727-897X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/2221-2434> <http://purl.org/ontology/bibo/uri> "http://www.revfinlay.sld.cu/index.php/finlay/" .
+<https://data.infocientia.com/resource/journal/2221-2434> <http://purl.org/ontology/bibo/issn> "2221-2434" .
+<https://data.infocientia.com/resource/journal/2221-2434> <http://purl.org/dc/elements/1.1/title> "Revista Finlay" .
+<https://data.infocientia.com/resource/journal/2221-2434> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Finlay" .
+<https://data.infocientia.com/resource/journal/2221-2434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-3070> <http://purl.org/ontology/bibo/uri> "http://www.revoftalmologia.sld.cu/index.php/oftalmologia/" .
+<https://data.infocientia.com/resource/journal/1561-3070> <http://purl.org/ontology/bibo/issn> "1561-3070" .
+<https://data.infocientia.com/resource/journal/1561-3070> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Oftalmolog\u00EDa" .
+<https://data.infocientia.com/resource/journal/1561-3070> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Oftalmolog\u00EDa" .
+<https://data.infocientia.com/resource/journal/1561-3070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1815-7696> <http://purl.org/ontology/bibo/uri> "http://mendive.upr.edu.cu/index.php/MendiveUPR/" .
+<https://data.infocientia.com/resource/journal/1815-7696> <http://purl.org/ontology/bibo/issn> "1815-7696" .
+<https://data.infocientia.com/resource/journal/1815-7696> <http://purl.org/dc/elements/1.1/title> "Mendive. Revista de Educaci\u00F3n" .
+<https://data.infocientia.com/resource/journal/1815-7696> <http://www.w3.org/2000/01/rdf-schema#label> "Mendive. Revista de Educaci\u00F3n" .
+<https://data.infocientia.com/resource/journal/1815-7696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/2310-340X> <http://purl.org/ontology/bibo/uri> "http://coodes.upr.edu.cu/index.php/coodes/" .
+<https://data.infocientia.com/resource/journal/2310-340X> <http://purl.org/ontology/bibo/issn> "2310-340X" .
+<https://data.infocientia.com/resource/journal/2310-340X> <http://purl.org/dc/elements/1.1/title> "Cooperativismo y Desarrollo" .
+<https://data.infocientia.com/resource/journal/2310-340X> <http://www.w3.org/2000/01/rdf-schema#label> "Cooperativismo y Desarrollo" .
+<https://data.infocientia.com/resource/journal/2310-340X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/2310-3469> <http://purl.org/ontology/bibo/uri> "http://cfores.upr.edu.cu/index.php/cfores/" .
+<https://data.infocientia.com/resource/journal/2310-3469> <http://purl.org/ontology/bibo/issn> "2310-3469" .
+<https://data.infocientia.com/resource/journal/2310-3469> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Ciencias Forestales" .
+<https://data.infocientia.com/resource/journal/2310-3469> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Ciencias Forestales" .
+<https://data.infocientia.com/resource/journal/2310-3469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/2708-3411> <http://purl.org/ontology/bibo/uri> "https://rctd.uic.cu/rctd/" .
+<https://data.infocientia.com/resource/journal/2708-3411> <http://purl.org/ontology/bibo/issn> "2708-3411" .
+<https://data.infocientia.com/resource/journal/2708-3411> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Transformaci\u00F3n Digital" .
+<https://data.infocientia.com/resource/journal/2708-3411> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Transformaci\u00F3n Digital" .
+<https://data.infocientia.com/resource/journal/2708-3411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-3127> <http://purl.org/ontology/bibo/uri> "http://www.revsaludpublica.sld.cu/index.php/spu/" .
+<https://data.infocientia.com/resource/journal/1561-3127> <http://purl.org/ontology/bibo/issn> "1561-3127" .
+<https://data.infocientia.com/resource/journal/1561-3127> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Salud P\u00FAblica" .
+<https://data.infocientia.com/resource/journal/1561-3127> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Salud P\u00FAblica" .
+<https://data.infocientia.com/resource/journal/1561-3127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1684-1859> <http://purl.org/ontology/bibo/uri> "http://revinformatica.sld.cu/index.php/rcim/" .
+<https://data.infocientia.com/resource/journal/1684-1859> <http://purl.org/ontology/bibo/issn> "1684-1859" .
+<https://data.infocientia.com/resource/journal/1684-1859> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Inform\u00E1tica M\u00E9dica" .
+<https://data.infocientia.com/resource/journal/1684-1859> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Inform\u00E1tica M\u00E9dica" .
+<https://data.infocientia.com/resource/journal/1684-1859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-3194> <http://purl.org/ontology/bibo/uri> "http://www.revcmpinar.sld.cu/index.php/publicaciones/" .
+<https://data.infocientia.com/resource/journal/1561-3194> <http://purl.org/ontology/bibo/issn> "1561-3194" .
+<https://data.infocientia.com/resource/journal/1561-3194> <http://purl.org/dc/elements/1.1/title> "Revista de Ciencias M\u00E9dicas de Pinar del R\u00EDo" .
+<https://data.infocientia.com/resource/journal/1561-3194> <http://www.w3.org/2000/01/rdf-schema#label> "Revista de Ciencias M\u00E9dicas de Pinar del R\u00EDo" .
+<https://data.infocientia.com/resource/journal/1561-3194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-3054> <http://purl.org/ontology/bibo/uri> "http://www.revmedtropical.sld.cu/index.php/medtropical/" .
+<https://data.infocientia.com/resource/journal/1561-3054> <http://purl.org/ontology/bibo/issn> "1561-3054" .
+<https://data.infocientia.com/resource/journal/1561-3054> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Medicina Tropical" .
+<https://data.infocientia.com/resource/journal/1561-3054> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Medicina Tropical" .
+<https://data.infocientia.com/resource/journal/1561-3054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-3038> <http://purl.org/ontology/bibo/uri> "http://www.revmgi.sld.cu/index.php/mgi/" .
+<https://data.infocientia.com/resource/journal/1561-3038> <http://purl.org/ontology/bibo/issn> "1561-3038" .
+<https://data.infocientia.com/resource/journal/1561-3038> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Medicina General Integral" .
+<https://data.infocientia.com/resource/journal/1561-3038> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Medicina General Integral" .
+<https://data.infocientia.com/resource/journal/1561-3038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-3011> <http://purl.org/ontology/bibo/uri> "http://www.revibiomedica.sld.cu/index.php/ibi/" .
+<https://data.infocientia.com/resource/journal/1561-3011> <http://purl.org/ontology/bibo/issn> "1561-3011" .
+<https://data.infocientia.com/resource/journal/1561-3011> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Investigaciones Biom\u00E9dicas" .
+<https://data.infocientia.com/resource/journal/1561-3011> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Investigaciones Biom\u00E9dicas" .
+<https://data.infocientia.com/resource/journal/1561-3011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-2945> <http://purl.org/ontology/bibo/uri> "http://www.revcirugia.sld.cu/index.php/cir/" .
+<https://data.infocientia.com/resource/journal/1561-2945> <http://purl.org/ontology/bibo/issn> "1561-2945" .
+<https://data.infocientia.com/resource/journal/1561-2945> <http://purl.org/dc/elements/1.1/title> "Revista Cubana de Cirug\u00EDa" .
+<https://data.infocientia.com/resource/journal/1561-2945> <http://www.w3.org/2000/01/rdf-schema#label> "Revista Cubana de Cirug\u00EDa" .
+<https://data.infocientia.com/resource/journal/1561-2945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
+<https://data.infocientia.com/resource/journal/1561-2902> <http://purl.org/ontology/bibo/uri> "http://www.ems.sld.cu/index.php/ems/" .
+<https://data.infocientia.com/resource/journal/1561-2902> <http://purl.org/ontology/bibo/issn> "1561-2902" .
+<https://data.infocientia.com/resource/journal/1561-2902> <http://purl.org/dc/elements/1.1/title> "Educaci\u00F3n M\u00E9dica Superior" .
+<https://data.infocientia.com/resource/journal/1561-2902> <http://www.w3.org/2000/01/rdf-schema#label> "Educaci\u00F3n M\u00E9dica Superior" .
+<https://data.infocientia.com/resource/journal/1561-2902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/fabio/Journal> .
 <http://purl.org/ontology/bibo/uri> <http://www.w3.org/2000/01/rdf-schema#label> "journal url" .
 <http://purl.org/ontology/bibo/uri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://purl.org/dc/elements/1.1/title> <http://www.w3.org/2000/01/rdf-schema#label> "journal title" .
